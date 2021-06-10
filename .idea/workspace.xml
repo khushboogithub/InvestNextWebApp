@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="36cd21ad-86e3-4a42-843b-2373cce689ed" name="Default Changelist" comment="" />
+    <list default="true" id="36cd21ad-86e3-4a42-843b-2373cce689ed" name="Default Changelist" comment="Setting up">
+      <change beforePath="$PROJECT_DIR$/.idea/InvestNextWebApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/InvestNextWebApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,6 +37,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vtest1/invest_myproject/ReallySimpleCRM/templates" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -30,6 +55,43 @@
       <option name="presentableId" value="Default" />
       <updated>1623115752867</updated>
     </task>
+    <task id="LOCAL-00001" summary="Setting up">
+      <created>1623116346009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623116346009</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Setting up" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setting up" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623197377897">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1623197377897" />
+    <state x="240" y="137" key="Vcs.Push.Dialog.v2" timestamp="1623116349192">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="137" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1623116349192" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1623178719400">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.25.1280.775@0.25.1280.775" timestamp="1623178719400" />
   </component>
 </project>
