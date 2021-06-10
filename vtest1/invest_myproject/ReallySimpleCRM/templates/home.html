@@ -1,0 +1,15 @@
+{% extends "logout.html" %}
+{% block content %}
+<br>
+
+<h1>Look at your contacts : </h1>
+{% for contact in contacts %}
+{{contact.contact_name}} <br>
+{% endfor %}
+<br>
+<hr>
+<button onclick="location.href = 'addContacts'">Add a contact</button>
+
+<button onclick="location.href = 'deleteContact'">Delete Contact</button>
+{% endblock %}
+

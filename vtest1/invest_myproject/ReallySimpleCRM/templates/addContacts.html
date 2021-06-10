@@ -1,0 +1,14 @@
+{% extends "logout.html" %}
+{% block content %}
+<br>
+<h1>Add new contact here:</h1>
+<form method="POST" action="">
+    {% csrf_token %}
+
+    <label>Enter Name of Contact : </label>
+    <input type="text" name="contactname">
+    <input type="submit" name="addcontact" value="Add Contact">
+
+</form>
+<button onclick="location.href = 'home'">Cancel</button>
+{% endblock %}

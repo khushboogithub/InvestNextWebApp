@@ -1,0 +1,18 @@
+{% extends "logout.html" %}
+{% block content %}
+<br>
+
+<h3>Which contact do you want to delete?</h3><br>
+<form method="POST">
+    {% csrf_token %}
+<select name="delete_contact">
+    <option disabled selected value> -- select an option -- </option>
+
+{% for contact in contacts %}
+    <option value="{{ contact.id }}">{{ contact.contact_name }}</option>
+{% endfor %}
+</select>
+    <input type="submit" name="deletecontact" value="Delete Contact">
+
+</form>
+{% endblock %}
