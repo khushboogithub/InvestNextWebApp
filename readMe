@@ -1,6 +1,4 @@
 How to run the project?
 1. Create a virtual environment : mine was named vtest1/invest_myproject and then go in that directory and run 'python3 manage.py runserver'
 2. You can access the first page locally via http://127.0.0.1:8084/ or indicated local address and you will be guided by the app thereafter.
-
-
-
+3. The app name is ReallySimpleORM and you can find all the templates and views inside that directory for code review.
